@@ -11,3 +11,4 @@ Options
 -Delete items
 -Search for items
 -Check total value of all items
+All the changes are saved and loaded from a JSON file
